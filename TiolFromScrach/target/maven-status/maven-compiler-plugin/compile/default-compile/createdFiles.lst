@@ -1,0 +1,7 @@
+BaseClass\BasePage.class
+BaseClass\BaseTest.class
+POMObejctClasse\UsrMgmntRegistrationMasterPage.class
+POMTestClasses\LoginTest.class
+POMTestClasses\UsrMgmntRegistrationMasterTest.class
+POMObejctClasse\LoginPage.class
+DriverManager\DriverManagerClass.class
